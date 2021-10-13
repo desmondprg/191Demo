@@ -4,6 +4,15 @@ This is a demp repo for INF 191
 
 What is your favorite movies?
 
+- Iron Man
+
+- Frozen
+
+- The Brothers
+
+- Spiderman
+
+
           _____                    _____                    _____                    _____                    _____          
          /\    \                  /\    \                  /\    \                  /\    \                  /\    \         
         /::\    \                /::\____\                /::\    \                /::\    \                /::\____\        
@@ -26,3 +35,4 @@ What is your favorite movies?
         \::/    /                \::/    /                \:|   |                  \::/    /                \:|   |          
          \/____/                  \/____/                  \|___|                   \/____/                  \|___|          
                                                                                                                              
+=======
