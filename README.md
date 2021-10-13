@@ -4,7 +4,7 @@ This is a demp repo for INF 191
 
 What is your favorite movies?
 
- _____ _              _    
+______ _              _    
 /  ___| |            | |   
 \ `--.| |__  _ __ ___| | __
  `--. \ '_ \| '__/ _ \ |/ /
